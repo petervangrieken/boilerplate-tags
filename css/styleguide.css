@@ -2,3 +2,7 @@ main {
 	max-width: 50em;
 	margin: auto;
 }
+
+section {
+	margin-bottom: 2em;
+}
