@@ -7,7 +7,19 @@ h1,
 h2, 
 h3, 
 h4, 
-h5 {
+h5,
+h6 {
   color: #870C25;
   font-family: 'Arial Rounded MT Bold', 'Helvetica Rounded', Arial, sans-serif;
+}
+
+a {
+  color: #16405B;
+}
+
+button {
+  background-color:  #16405B;
+  border: none;
+  border-radius: 3px;
+  padding: 5px;
 }
