@@ -1,4 +1,13 @@
 body {
   font-size: 110%;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5 {
+  color: #870C25;
   font-family: 'Arial Rounded MT Bold', 'Helvetica Rounded', Arial, sans-serif;
 }
